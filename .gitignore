@@ -1,0 +1,7 @@
+/build
+/RemoteSystemsTempFiles
+.metadata
+.project
+.settings
+.gradle
+build/
