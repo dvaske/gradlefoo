@@ -2,3 +2,6 @@ include "Foo",
         "Bar",
         "FooBar",
         "GradleFoo"
+
+
+rootProject.name = 'GradleFoo-root'
